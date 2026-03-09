@@ -97,7 +97,7 @@ class Lalitha:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-### 🌸 featured projects
+### 🌸 Featured Projects
 
 <div align="center">
 
@@ -116,12 +116,12 @@ class Lalitha:
 
 <div align="center">
 
-```
-🎓  New American University Scholar  ·  merit-based award @ ASU
-🏅  IEEE Richard E. Merwin Scholar   ·  global awardee + student branch treasurer
-📄  Published @ IADIS 2026           ·  GEMR:KG accepted to international conference
-🏆  Hackathon Winner                 ·  1st / 50+ teams @ Galgotias University
-```
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🎓 | **New American University Scholar** — merit-based award @ ASU |
+| 🏅 | **IEEE Richard E. Merwin Scholar** — global awardee + student branch treasurer |
+| 📄 | **Published @ IADIS 2026** — GEMR:KG accepted to international conference |
+| 🏆 | **Hackathon Winner** — 1st place out of 50+ teams @ Galgotias University |
 
 </div>
 
@@ -139,7 +139,6 @@ class Lalitha:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vls24asu&hide_border=true&background=fff0f5&ring=f48fb1&fire=8B9E5A&currStreakLabel=8B9E5A&sideLabels=8B9E5A&dates=b0a0a8&currStreakNum=f48fb1&sideNums=f48fb1" />
 
 </div>
-
 ---
 
 <!-- Snake -->
