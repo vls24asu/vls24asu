@@ -58,7 +58,7 @@ class Lalitha:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-### 🌿 Tech Stack
+### 🌿 `Tech Stack`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ class Lalitha:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-### 🌸 Featured Projects
+### 🌸 `Featured Projects`
 
 <div align="center">
 
@@ -112,7 +112,7 @@ class Lalitha:
 
 ---
 
-### 🏅 Achievements
+### 🏅 `Achievements`
 
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
