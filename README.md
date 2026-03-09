@@ -141,16 +141,6 @@ class Lalitha:
 </div>
 ---
 
-<!-- Snake -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vls24asu/vls24asu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vls24asu/vls24asu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vls24asu/vls24asu/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
