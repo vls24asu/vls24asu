@@ -57,7 +57,7 @@ class Lalitha:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-### 🌿 tech stack
+### 🌿 Tech Stack
 
 <div align="center">
 
@@ -111,16 +111,17 @@ class Lalitha:
 
 ---
 
-### 🏅 achievements
+### 🏅 Achievements
 
 <div align="center">
 
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| 🎓 | **New American University Scholar** — merit-based award @ ASU |
-| 🏅 | **IEEE Richard E. Merwin Scholar** — global awardee + student branch treasurer |
-| 📄 | **Published @ IADIS 2026** — GEMR:KG accepted to international conference |
-| 🏆 | **Hackathon Winner** — 1st place out of 50+ teams @ Galgotias University |
+![Scholar](https://img.shields.io/badge/🎓%20New%20American%20University%20Scholar-Merit%20Based%20Award%20%40%20ASU-8B9E5A?style=for-the-badge&labelColor=fce4ec&color=8B9E5A)
+
+![IEEE](https://img.shields.io/badge/🏅%20IEEE%20Richard%20E.%20Merwin%20Scholar-Global%20Awardee%20%2B%20Student%20Branch%20Treasurer-8B9E5A?style=for-the-badge&labelColor=fce4ec&color=8B9E5A)
+
+![Published](https://img.shields.io/badge/📄%20Published%20%40%20IADIS%202026-GEMR%3AKG%20Accepted%20to%20International%20Conference-8B9E5A?style=for-the-badge&labelColor=fce4ec&color=8B9E5A)
+
+![Hackathon](https://img.shields.io/badge/🏆%20Hackathon%20Winner-1st%20Place%20out%20of%2050%2B%20Teams%20%40%20Galgotias%20University-8B9E5A?style=for-the-badge&labelColor=fce4ec&color=8B9E5A)
 
 </div>
 
