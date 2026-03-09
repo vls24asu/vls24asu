@@ -124,30 +124,4 @@ class Lalitha:
 
 </div>
 
----
 
-### 🌷 github stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vls24asu&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=8B9E5A&icon_color=f48fb1&text_color=6d6875" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vls24asu&layout=compact&hide_border=true&bg_color=fff0f5&title_color=8B9E5A&text_color=6d6875" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vls24asu&hide_border=true&background=fff0f5&ring=f48fb1&fire=8B9E5A&currStreakLabel=8B9E5A&sideLabels=8B9E5A&dates=b0a0a8&currStreakNum=f48fb1&sideNums=f48fb1" />
-
-</div>
----
-
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
-
-<div align="center">
-
-*"the best models don't just predict — they reason."* 🌿🌸
-
-![visitors](https://komarev.com/ghpvc/?username=vls24asu&color=f48fb1&style=flat-square&label=profile+views)
-
-</div>
