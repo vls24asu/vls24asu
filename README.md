@@ -9,12 +9,6 @@
 <a href="https://linkedin.com/in/lalitha-shreya-vanam">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:lvanam@asu.edu">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/vls24asu">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br/><br/>
 
@@ -29,7 +23,7 @@
 
 ---
 
-## ✦ about me
+## ✦ About Me
 
 ```python
 class Lalitha:
@@ -37,8 +31,7 @@ class Lalitha:
         self.name        = "Lalitha Shreya Vanam"
         self.role        = "AI Engineer & MS Software Engineering @ ASU"
         self.location    = "Tempe, AZ 🌵"
-        self.interests   = ["Agentic AI", "Neuro-Symbolic Systems",
-                            "LLMs", "Computer Vision", "Knowledge Graphs"]
+        self.interests   = ["Agentic AI", "LLMs", "Computer Vision", "Knowledge Graphs"]
         self.currently   = "Building GEMR:KG — a global risk knowledge graph (published @ IADIS 2026)"
         self.fun_fact    = "Hackathon winner 🏆 | IEEE Scholar | Simulation nerd in Unity 6"
 
@@ -82,34 +75,18 @@ class Lalitha:
 
 ---
 
-## ✦ featured projects
+## ✦ Featured Projects
 
 | 🔬 Project | 💡 What it does | 🛠 Stack |
 |---|---|---|
 | **GEMR:KG** | Knowledge graph modeling global economic contagion with LLM-to-SPARQL interface | RDF/OWL, GraphDB, Python, SPARQL |
-| **AI Accident Report System** | LLM + CV pipeline for legal doc processing — 40% less manual work | LLaMA-3, BERT, FAISS, React, SageMaker |
 | **Kidney Function Classifier** | YOLOv5 + VGG16 multi-stage CV pipeline with 94% precision on DTPA scans | Python, YOLOv5, VGG16, Tkinter |
 | **City Courier** | 3D simulation with NavMesh AI traffic, spatial audio, NPC dialogue | C#, Unity 6 URP |
 | **AccuLoad** 🏆 | Hackathon winner — truck load prediction at 91% accuracy | Python, Scikit-learn, CV |
 
 ---
 
-## ✦ github stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vls24asu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=a9b1d6" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vls24asu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=a9b1d6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vls24asu&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f9a8d4&currStreakLabel=c084fc" />
-
-</div>
-
----
-
-## ✦ achievements
+## ✦ Achievements
 
 🎓 **New American University Scholar** — Merit-based scholarship, ASU  
 🏅 **IEEE Richard E. Merwin Scholar** — Global awardee + Student Branch Treasurer  
