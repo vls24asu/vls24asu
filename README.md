@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=lalitha%20shreya%20vanam&fontSize=45&fontColor=fff&fontAlignY=38&desc=ai%20engineer%20%E2%80%A2%20ms%20swe%20%40%20asu%20%E2%80%A2%20builder%20of%20things%20that%20think&descAlignY=58&descSize=16&descColor=fce4ec&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Lalitha%20Shreya%20Vanam&fontSize=45&fontColor=fff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ms%20swe%20%40%20ASU%20%E2%80%A2%20builder%20of%20things%20that%20think&descAlignY=58&descSize=16&descColor=fce4ec&animation=fadeIn" />
 
 </div>
 
@@ -18,7 +18,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitha--shreya--vanam-%23fce4ec?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B9E5A)](https://linkedin.com/in/lalitha-shreya-vanam)
-[![GitHub](https://img.shields.io/badge/GitHub-vls24asu-%23fce4ec?style=for-the-badge&logo=github&logoColor=white&labelColor=8B9E5A)](https://github.com/vls24asu)
 [![Email](https://img.shields.io/badge/Email-lvanam%40asu.edu-%23fce4ec?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B9E5A)](mailto:lvanam@asu.edu)
 
 </div>
