@@ -8,7 +8,7 @@
 <!-- Typing SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B9E5A&center=true&vCenter=true&width=650&height=55&lines=%F0%9F%AA%B7+neuro-symbolic+AI+%7C+LLMs+%7C+knowledge+graphs;%F0%9F%8C%BF+agentic+AI+%7C+computer+vision+%7C+rag+pipelines;%F0%9F%8C%B8+ieee+scholar+%7C+hackathon+winner+%7C+published+researcher;%E2%9C%A8+let%E2%80%99s+build+something+that+actually+thinks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B9E5A&center=true&vCenter=true&width=650&height=55&lines=%F0%9F%AA%B7+Neuro-Symbolic+AI+%7C+LLMs+%7C+Knowledge+Graphs;%F0%9F%8C%BF+Agentic+AI+%7C+Computer+Vision+%7C+Rag+Pipelines;%F0%9F%8C%B8+IEEE+Scholar+%7C+Hackathon+Winner+%7C+Published+Researcher;%E2%9C%A8+let%E2%80%99s+build+something+that+actually+thinks" alt="Typing SVG" />
 
 </div>
 
@@ -64,30 +64,30 @@ class Lalitha:
 
 **✦ AI & Machine Learning ✦**
 
-![Python](https://img.shields.io/badge/Python-%23fce4ec.svg?style=flat-square&logo=python&logoColor=8B9E5A)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23fce4ec.svg?style=flat-square&logo=PyTorch&logoColor=8B9E5A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23fce4ec.svg?style=flat-square&logo=TensorFlow&logoColor=8B9E5A)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23fce4ec.svg?style=flat-square&logo=huggingface&logoColor=8B9E5A)
-![LangChain](https://img.shields.io/badge/LangChain-%23fce4ec.svg?style=flat-square&logo=langchain&logoColor=8B9E5A)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23fce4ec.svg?style=flat-square&logo=scikit-learn&logoColor=8B9E5A)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23fce4ec.svg?style=flat-square&logo=opencv&logoColor=8B9E5A)
-![JAX](https://img.shields.io/badge/JAX-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)
+[![Python](https://img.shields.io/badge/Python-%23fce4ec.svg?style=flat-square&logo=python&logoColor=8B9E5A)](https://www.python.org/doc/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23fce4ec.svg?style=flat-square&logo=PyTorch&logoColor=8B9E5A)](https://pytorch.org/docs/stable/index.html)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23fce4ec.svg?style=flat-square&logo=TensorFlow&logoColor=8B9E5A)](https://www.tensorflow.org/learn)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23fce4ec.svg?style=flat-square&logo=huggingface&logoColor=8B9E5A)](https://huggingface.co/docs)
+[![LangChain](https://img.shields.io/badge/LangChain-%23fce4ec.svg?style=flat-square&logo=langchain&logoColor=8B9E5A)](https://python.langchain.com/docs/introduction/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23fce4ec.svg?style=flat-square&logo=scikit-learn&logoColor=8B9E5A)](https://scikit-learn.org/stable/user_guide.html)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23fce4ec.svg?style=flat-square&logo=opencv&logoColor=8B9E5A)](https://docs.opencv.org/4.x/)
+[![JAX](https://img.shields.io/badge/JAX-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)](https://jax.readthedocs.io/en/latest/)
 
 **✦ Web & Cloud ✦**
 
-![React](https://img.shields.io/badge/React-%23f3e5f5.svg?style=flat-square&logo=react&logoColor=8B9E5A)
-![Node.js](https://img.shields.io/badge/Node.js-%23f3e5f5.svg?style=flat-square&logo=node.js&logoColor=8B9E5A)
-![Flask](https://img.shields.io/badge/Flask-%23f3e5f5.svg?style=flat-square&logo=flask&logoColor=8B9E5A)
-![AWS](https://img.shields.io/badge/AWS-%23f3e5f5.svg?style=flat-square&logo=amazon-aws&logoColor=8B9E5A)
-![GCP](https://img.shields.io/badge/GCP-%23f3e5f5.svg?style=flat-square&logo=google-cloud&logoColor=8B9E5A)
-![Docker](https://img.shields.io/badge/Docker-%23f3e5f5.svg?style=flat-square&logo=docker&logoColor=8B9E5A)
+[![React](https://img.shields.io/badge/React-%23f3e5f5.svg?style=flat-square&logo=react&logoColor=8B9E5A)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23f3e5f5.svg?style=flat-square&logo=node.js&logoColor=8B9E5A)](https://nodejs.org/en/docs)
+[![Flask](https://img.shields.io/badge/Flask-%23f3e5f5.svg?style=flat-square&logo=flask&logoColor=8B9E5A)](https://flask.palletsprojects.com/en/stable/)
+[![AWS](https://img.shields.io/badge/AWS-%23f3e5f5.svg?style=flat-square&logo=amazon-aws&logoColor=8B9E5A)](https://docs.aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-%23f3e5f5.svg?style=flat-square&logo=google-cloud&logoColor=8B9E5A)](https://cloud.google.com/docs)
+[![Docker](https://img.shields.io/badge/Docker-%23f3e5f5.svg?style=flat-square&logo=docker&logoColor=8B9E5A)](https://docs.docker.com/)
 
 **✦ Databases & Semantic Web ✦**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23fce4ec.svg?style=flat-square&logo=postgresql&logoColor=8B9E5A)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23fce4ec.svg?style=flat-square&logo=mongodb&logoColor=8B9E5A)
-![SPARQL](https://img.shields.io/badge/SPARQL%20%2F%20RDF%20%2F%20OWL-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)
-![GraphDB](https://img.shields.io/badge/GraphDB-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23fce4ec.svg?style=flat-square&logo=postgresql&logoColor=8B9E5A)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%23fce4ec.svg?style=flat-square&logo=mongodb&logoColor=8B9E5A)](https://www.mongodb.com/docs/)
+[![SPARQL](https://img.shields.io/badge/SPARQL%20%2F%20RDF%20%2F%20OWL-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)](https://www.w3.org/TR/sparql11-overview/)
+[![GraphDB](https://img.shields.io/badge/GraphDB-%23fce4ec.svg?style=flat-square&logoColor=8B9E5A)](https://graphdb.ontotext.com/documentation/)
 
 </div>
 
